@@ -1,0 +1,10 @@
+-- No entries --
+● -.mount - Root Mount
+     Loaded: loaded (/etc/fstab; generated)
+     Active: active (mounted) since Sat 2024-10-26 17:19:23 +0330; 23h ago
+      Where: /
+       What: /dev/sda1
+       Docs: man:fstab(5)
+             man:systemd-fstab-generator(8)
+
+Notice: journal has been rotated since unit was started, output may be incomplete.
